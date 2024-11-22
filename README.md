@@ -1,7 +1,7 @@
 # GadgetBD E-commerce Platform
 
 ## Live Website Link
-Visit GadgetHaven
+https://symphonious-malasada-5170c4.netlify.app/
 
 ## Requirement Document Link
  1. **https://react.dev/**
